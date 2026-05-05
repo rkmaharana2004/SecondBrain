@@ -40,9 +40,9 @@ SecondBrain is a modern, high-performance Android application designed as a pers
 
 ## 📸 Screenshots
 
-| Home Screen | Streak Heatmap | Settings Screen | Capture | Tag Cloud |
+| Home Screen | Streak Heatmap | Settings Screen | Capture Screen | Tag Cloud |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Home](assets/screenshots/home_screen.jpg) | ![Heatmap](assets/screenshots/heat_map.jpg) | ![Settings](assets/screenshots/settings_screen.jpg) | ![Capture](https://via.placeholder.com/200x400?text=Capture) | ![Tags](https://via.placeholder.com/200x400?text=Tags) |
+| ![Home](assets/screenshots/home_screen.jpg) | ![Heatmap](assets/screenshots/heat_map.jpg) | ![Settings](assets/screenshots/settings_screen.jpg) | ![Capture](assets/screenshots/capture_screen.jpg) | ![Tags](https://via.placeholder.com/200x400?text=Tags) |
 
 ## 🛠️ Installation
 
